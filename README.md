@@ -1,0 +1,8 @@
+[The Future of AI Should Be Built on Evidence, Not Assumptions (1).pdf](https://github.com/user-attachments/files/29153097/The.Future.of.AI.Should.Be.Built.on.Evidence.Not.Assumptions.1.pdf)
+[White Paper Revisions.pdf](https://github.com/user-attachments/files/29153093/White.Paper.Revisions.pdf)
+[Revenants Engine Overview (1).pdf](https://github.com/user-attachments/files/29153089/Revenants.Engine.Overview.1.pdf)
+[The Confidence Engine.pdf](https://github.com/user-attachments/files/29153083/The.Confidence.Engine.pdf)
+[Scientific Governance Engine.pdf](https://github.com/user-attachments/files/29153080/Scientific.Governance.Engine.pdf)
+[Project Status Note - June 19, 2026.pdf](https://github.com/user-attachments/files/29153079/Project.Status.Note.-.June.19.2026.pdf)
+[SCL2- Seeing Problems Before They Become Problems.pdf](https://github.com/user-attachments/files/29153077/SCL2-.Seeing.Problems.Before.They.Become.Problems.pdf)
+[Kevin Campbell (1).pdf](https://github.com/user-attachments/files/29153199/Kevin.Campbell.1.pdf)
