@@ -4,3 +4,7 @@
 [Scientific Governance Engine.pdf](https://github.com/user-attachments/files/29153080/Scientific.Governance.Engine.pdf)
 [SCL2- Seeing Problems Before They Become Problems.pdf](https://github.com/user-attachments/files/29153077/SCL2-.Seeing.Problems.Before.They.Become.Problems.pdf)
 [Kevin Campbell (1).pdf](https://github.com/user-attachments/files/29153199/Kevin.Campbell.1.pdf)
+[Learnings from Large-Scale Synthetic AI Validation.pdf](https://github.com/user-attachments/files/29153851/Learnings.from.Large-Scale.Synthetic.AI.Validation.pdf)
+[Kevin Campbell.pdf](https://github.com/user-attachments/files/29153839/Kevin.Campbell.pdf)
+[The AI Overseer.pdf](https://github.com/user-attachments/files/29153793/The.AI.Overseer.pdf)
+[Scientific Governance.pdf](https://github.com/user-attachments/files/29153787/Scientific.Governance.pdf)
