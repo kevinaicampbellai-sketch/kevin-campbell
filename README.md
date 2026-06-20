@@ -1,3 +1,4 @@
+[Trusting_the_Process_RC1.pdf](https://github.com/user-attachments/files/29157693/Trusting_the_Process_RC1.pdf)
 [The Future of AI Should Be Built on Evidence, Not Assumptions (1).pdf](https://github.com/user-attachments/files/29153097/The.Future.of.AI.Should.Be.Built.on.Evidence.Not.Assumptions.1.pdf)
 [Revenants Engine Overview (1).pdf](https://github.com/user-attachments/files/29153089/Revenants.Engine.Overview.1.pdf)
 [The Confidence Engine.pdf](https://github.com/user-attachments/files/29153083/The.Confidence.Engine.pdf)
@@ -8,3 +9,5 @@
 [Kevin Campbell.pdf](https://github.com/user-attachments/files/29153839/Kevin.Campbell.pdf)
 [The AI Overseer.pdf](https://github.com/user-attachments/files/29153793/The.AI.Overseer.pdf)
 [Scientific Governance.pdf](https://github.com/user-attachments/files/29153787/Scientific.Governance.pdf)
+[Looking_Beyond_the_Next_Decision_RC1.pdf](https://github.com/user-attachments/files/29157694/Looking_Beyond_the_Next_Decision_RC1.pdf)[The_Cost_of_Assumptions_RC1.pdf](https://github.com/user-attachments/files/29157696/The_Cost_of_Assumptions_RC1.pdf)
+[Seeing_the_Unexpected_RC1.pdf](https://github.com/user-attachments/files/29157695/Seeing_the_Unexpected_RC1.pdf)
