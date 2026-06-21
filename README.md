@@ -1,3 +1,4 @@
+[04_Bringing_the_Pieces_Together_Revised.pdf](https://github.com/user-attachments/files/29175188/04_Bringing_the_Pieces_Together_Revised.pdf)
 [VolumeII_10_Why_Stability_Matters_More_Than_Strength_v1_1.pdf](https://github.com/user-attachments/files/29174783/VolumeII_10_Why_Stability_Matters_More_Than_Strength_v1_1.pdf)
 [Trusting_the_Process_RC1.pdf](https://github.com/user-attachments/files/29157693/Trusting_the_Process_RC1.pdf)
 [The Future of AI Should Be Built on Evidence, Not Assumptions (1).pdf](https://github.com/user-attachments/files/29153097/The.Future.of.AI.Should.Be.Built.on.Evidence.Not.Assumptions.1.pdf)
@@ -26,3 +27,6 @@
 [02_Understanding_the_Path_Before_Understanding_the_Problem_Revised.pdf](https://github.com/user-attachments/files/29174787/02_Understanding_the_Path_Before_Understanding_the_Problem_Revised.pdf)
 [03_The_Difference_Between_a_Moment_and_a_Pattern_Revised.pdf](https://github.com/user-attachments/files/29174786/03_The_Difference_Between_a_Moment_and_a_Pattern_Revised.pdf)
 [04_Confidence_Should_Be_Earned_Revised.pdf](https://github.com/user-attachments/files/29174785/04_Confidence_Should_Be_Earned_Revised.pdf)
+[03_Finding_Where_Change_Begins_Revised.pdf](https://github.com/user-attachments/files/29175189/03_Finding_Where_Change_Begins_Revised.pdf)[05_What_Persists_Through_Change_Revised.pdf](https://github.com/user-attachments/files/29175192/05_What_Persists_Through_Change_Revised.pdf)
+[02_Preserving_Continuity_Through_Change_Revised.pdf](https://github.com/user-attachments/files/29175191/02_Preserving_Continuity_Through_Change_Revised.pdf)
+[01_Looking_Beyond_the_Moment_Revised.pdf](https://github.com/user-attachments/files/29175190/01_Looking_Beyond_the_Moment_Revised.pdf)
