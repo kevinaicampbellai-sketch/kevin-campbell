@@ -30,3 +30,6 @@
 [03_Finding_Where_Change_Begins_Revised.pdf](https://github.com/user-attachments/files/29175189/03_Finding_Where_Change_Begins_Revised.pdf)[05_What_Persists_Through_Change_Revised.pdf](https://github.com/user-attachments/files/29175192/05_What_Persists_Through_Change_Revised.pdf)
 [02_Preserving_Continuity_Through_Change_Revised.pdf](https://github.com/user-attachments/files/29175191/02_Preserving_Continuity_Through_Change_Revised.pdf)
 [01_Looking_Beyond_the_Moment_Revised.pdf](https://github.com/user-attachments/files/29175190/01_Looking_Beyond_the_Moment_Revised.pdf)
+[The Human Side of Artificial Intelligence.pdf](https://github.com/user-attachments/files/29320071/The.Human.Side.of.Artificial.Intelligence.pdf)
+[Human–AI Cognitive Partnership.pdf](https://github.com/user-attachments/files/29320066/Human.AI.Cognitive.Partnership.pdf)
+[Why AI Needs More Than Intelligence.pdf](https://github.com/user-attachments/files/29320065/Why.AI.Needs.More.Than.Intelligence.pdf)
